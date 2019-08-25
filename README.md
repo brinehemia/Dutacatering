@@ -1,15 +1,15 @@
 # Sistem Manajemen Pegawai Duta catering malang Dutacatering
 
-login user admin ->
-username : admin
+login user admin -> <br>
+username : admin <br>
 password : admin
 
-login user pelamar ->
+login user pelamar -> <br>
 username : inipelamar@gmail.com <br>
 password : inipelamar
 
-Login user Pegawai ->
-username : inipegawai
+Login user Pegawai -> <br>
+username : inipegawai <br>
 password : inipegawai
 
 dutacatering/formpegawai -> /u membuat user pelamar
