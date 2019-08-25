@@ -5,7 +5,7 @@ username : admin
 password : admin
 
 login user pelamar ->
-username : inipelamar@gmail.com
+username : inipelamar@gmail.com <br>
 password : inipelamar
 
 Login user Pegawai ->
@@ -16,3 +16,7 @@ dutacatering/formpegawai -> /u membuat user pelamar
 
 Portofolio php
 Brian Nehemia Prasetyo
+contact
+Email : briannehemia@gmail.com
+Phone Number : +6281252147847
+WA  : https://wa.me/6282230115869
