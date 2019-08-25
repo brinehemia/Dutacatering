@@ -14,10 +14,10 @@ password : inipegawai
 
 dutacatering/formpegawai -> /u membuat user pelamar
 
-Portofolio php
+Portofolio php <br>
 Brian Nehemia Prasetyo <br>
 
-contact <br>
+contact me <br>
 Email : briannehemia@gmail.com <br>
 Phone Number : +6281252147847 <br>
 WA  : https://wa.me/6282230115869
